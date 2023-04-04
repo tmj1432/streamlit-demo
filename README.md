@@ -1,6 +1,6 @@
 # STREAMLIT.IO DEMO
 
-### The purpose of this repository is to serve as a resource for instructing students enrolled in the DSI-35 Data Science Immersive program on the simplicity of utilizing Streamlit for deploying their data science projects.
+### The purpose of this repository is to serve as a resource for instructing students enrolled in the DSI-35 Data Science Immersive program on the simplicity of utilizing Streamlit to deploy their machine learning models.
 
 #### *Refer to the pdf in this repository for full instructions
 
